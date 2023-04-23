@@ -1,0 +1,1 @@
+python predict_comp.py --config config/shufflev2_vis_train.yml --model workspace/shufflev2_vis_train/model_best/nanodet_model_best.pth --path D:\\data\\AIdea2023\\Public_Private_Testing_Dataset_Only_for_detection\\JPEGImages\\All 
